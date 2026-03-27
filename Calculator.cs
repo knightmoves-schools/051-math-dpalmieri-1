@@ -6,6 +6,6 @@ public class Calculator{
     }
 
     public double Round(double value){
-        return Math.Round(value, 2);
+        return Math.Round(value, 3);
     }
 }
